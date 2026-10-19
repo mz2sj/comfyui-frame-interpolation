@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+test_result/
+.tracking
+.DS_Store
+
+demo_frames/
+All_in_one_v1_3.png
+example.png
+interpolation_schedule.png
+test_vfi_schedule.gif
